@@ -1,0 +1,41 @@
+body {
+  background-color: lightblue;
+
+}
+.gameName{
+  text-decoration: none;
+}
+h1 {
+  font-family: fantasy;
+  text-decoration: underline;
+}
+p {
+  color: dark;
+}
+.para1 {
+  font-family: fantasy;
+
+}
+.field {
+  height: 600px;
+  width: 950px;
+  float: right;
+  margin-right: 100px;
+
+
+}
+.tBorder {
+  border-style: groove;
+  position:fixed;
+  margin: 0px 0px 400px 400px;
+  opacity: .3;
+  height: 300px;
+  width: 600px;
+  z-index: -1;
+}
+li {
+  color: orange;
+}
+table {
+  color: maroon;
+}
